@@ -1,0 +1,12 @@
+{
+    "Persistencia":"mongo"
+    ,"filesystem":{
+        "archivo": "./archivo.txt"
+    }
+    ,"mongo":{
+        "coneccion":"mongodb://localhost:27017/ecommerce"
+    }
+    ,"firebase":{
+
+    }
+}
